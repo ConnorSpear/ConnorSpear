@@ -2,7 +2,7 @@
 
 - I'm interested in using technologies and algorithms to make things easy.
 - I'm currently learning SQL, PowerBI, Snowflake (the cloud), Pandas and NumPy.
-- My current personal project is building a website using HTML, CSS, JavaScript and Django.
+- My current personal project is building a website using HTML, CSS, and JavaScript
 - Reach out to me at connorspear.work@gmail.com
 
 <!---
